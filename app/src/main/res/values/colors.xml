@@ -7,4 +7,25 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+        <!-- Define el color de fondo -->
+    <color name="colorBackground">#243434</color>
+
+    <!-- Define el color de primer plano para los textos -->
+    <color name="colorTextPrimary">#FFFFFF</color>
+
+    <!-- Define el color de primer plano para los títulos -->
+    <color name="colorTitle">#6CBB3C</color>
+
+    <!-- Define el color de primer plano para los subtítulos -->
+    <color name="colorSubtitle">#CCCCCC</color>
+
+    <!-- Define el color de los textos en estado de "hint" -->
+    <color name="colorHint">#999999</color>
+
+    <!-- Define el color para el toolbar -->
+    <color name="colorToolbar">#333333</color>
+
+    <!-- Define el color para el icono del toolbar -->
+    <color name="colorToolbarIcon">#FFFFFF</color>
+
 </resources>
